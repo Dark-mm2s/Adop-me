@@ -1,8 +1,8 @@
 local Config = {
     Hub = {
-        Title = "Vythen Hub",
+        Title = "Direct Hub",
         GameName = "Adopt Me",
-        Author = "made by Vythen",
+        Author = "made by krypt",
         Folder = "VythenHubAdoptMe",
         Icon = "laptop",
         ToggleKey = Enum.KeyCode.K,
